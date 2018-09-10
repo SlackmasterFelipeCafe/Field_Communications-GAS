@@ -34,3 +34,8 @@ Google Sheet Script for populating Google Calendars with Form Responses and Shee
 - **pushToCalendar**
 - **EditCalendarEvent**
 - **TestDateMath**
+
+## FieldComOnFormSubmit:
+Google Sheet Script for calling functions on a On Form Submit Trigger
+- **RunOnFormSubmit**
+- **CheckIfResponseIdExists**
