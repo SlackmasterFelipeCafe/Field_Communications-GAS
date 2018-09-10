@@ -20,3 +20,10 @@ Google sheet script for sending notification emails when Google Forms are submit
 - **SendEmailOnFormSubmit**, function that sends communications plan creation confirmation email that contains responses to the form
 - **SendResponseEditEmail**, function that sends a confirmation/notification email when a response is edited.  Email contains responses edited in the form 
 
+## FieldComAssignEditURLs:
+Google Sheet Script for assigning Edit Urls, response IDs and Calendar Event IDs to form responses
+- **returnLastResponseEditURL**
+- **assignLastEditUrlsFieldWorkCommResponses**
+- **assignLastResponseID**
+- **mannuallyAssignCalendarEventIDs**
+- **assignCalendarEventId**
