@@ -27,3 +27,10 @@ Google Sheet Script for assigning Edit Urls, response IDs and Calendar Event IDs
 - **assignLastResponseID**
 - **mannuallyAssignCalendarEventIDs**
 - **assignCalendarEventId**
+
+## FieldComCalendarFunctions:
+Google Sheet Script for populating Google Calendars with Form Responses and Sheet Values
+- **manualPushToCalendar**
+- **pushToCalendar**
+- **EditCalendarEvent**
+- **TestDateMath**
