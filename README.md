@@ -1,4 +1,4 @@
-# Field_Communications-GAS - Google Sheet Application used by the GGGSC to track personnel in the field and their communications plan(s) using Google Forms and Google Calendars.
+# Field Communications GAS - Google Sheet Application used by the GGGSC to track personnel in the field and their communications plan(s) using Google Forms and Google Calendars.
 US Geological Survey (USGS)
 
 Geology, Geophysics, and Geochemistry Science Center (GGGSC)
